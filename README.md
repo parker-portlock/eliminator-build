@@ -19,6 +19,7 @@
     Daytona Blast Shield Smoked Windscreen
     New Rage Cycles Tail Tidy Tail Light/Tail Tidy
     Denali D14 Destroyer LED Headlight
+    Denali Soundbomb Horn
     SP Takegawa Tapered Handlebar
     Kawasaki OEM High Seat
     Keimoto Bar End Mirrors
