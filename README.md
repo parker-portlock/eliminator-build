@@ -17,6 +17,7 @@
 ## Exterior Parts
     KSpeed Diabolus Adjsutable Brake and Clutch Levers 
     Daytona Blast Shield Smoked Windscreen
+    New Rage Cycles Tail Tidy Tail Light/Tail Tidy
     Denali D14 Destroyer LED Headlight
     SP Takegawa Tapered Handlebar
     Kawasaki OEM High Seat
