@@ -2,8 +2,8 @@
 2024 Kawasaki Eliminator Build
 
 ## Powertrain
-    Yamamoto Spec-A Slip On Exhaust (High Mount)
     BEAMS Power Header Front Pipe (incoming)
+    Yamamoto Spec-A Slip On Exhaust (High Mount)
 
 ## Suspension/Chassis
     EBC Double-H Sintered Pads (Front)
@@ -11,20 +11,24 @@
     OEM Suspension
 
 ## Tires
-    Grand High Speed GS-23 130/60/18
-    Dunlop D404 150/80/16
+    Front: Grand High Speed GS-23 130/60/18
+    Rear:  Dunlop D404 150/80/16
 
 ## Exterior Parts
-    KSpeed Diabolus Adjsutable Brake and Clutch Levers 
+    ACTIVE Foot Pegs (Black)
     Daytona Blast Shield Smoked Windscreen
-    New Rage Cycles Tail Tidy Tail Light/Tail Tidy
+    Daytona Frame Sliders
     Denali D14 Destroyer LED Headlight
     Denali Soundbomb Horn
-    SP Takegawa Tapered Handlebar
     Kawasaki OEM High Seat
     Keimoto Bar End Mirrors
-    Active Foot Pegs (Black)
+    KSpeed Diabolus Adjsutable Brake and Clutch Levers 
+    New Rage Cycles Tail Tidy Tail Light/Tail Tidy
+    SP Takegawa Tapered Handlebar
+    T-Rex Crank Case Covers
+    T-Rex Radiator Guard
     
 ## Fluids
-    Oil: 10W40 Red Line Motorcycle Oil
     Brakes: OEM DOT 4 Fluid
+    Oil:    10W40 Red Line Motorcycle Oil
+    
